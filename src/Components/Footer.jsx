@@ -33,7 +33,7 @@ const Footer = () => {
             <Image
               mt="-42px"
               mb="-20px"
-              src="/src/assets/logo.svg"
+              src="assets/logo.svg"
               boxSize="100px"
             />
             <Text fontSize="12px">
