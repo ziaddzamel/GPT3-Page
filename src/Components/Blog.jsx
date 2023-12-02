@@ -57,7 +57,7 @@ const Blog = () => {
         color="#ffffff"
       >
         <GridItem borderTopLeftRadius="50px" colSpan={1} rowSpan={2} bg="#042C54">
-          <Image src="/src/assets/blog01.png" />
+          <Image src="assets/blog01.png" />
           <VStack
             justifyContent="space-between"
             p="20px"
@@ -78,10 +78,10 @@ const Blog = () => {
             </Link>
           </VStack>
         </GridItem>
-        <BlogItem imageSrc="/src/assets/blog02.png" />
-        <BlogItem imageSrc="/src/assets/blog03.png" />
-        <BlogItem imageSrc="/src/assets/blog04.png" />
-        <BlogItem imageSrc="/src/assets/blog05.png" />
+        <BlogItem imageSrc="assets/blog02.png" />
+        <BlogItem imageSrc="assets/blog03.png" />
+        <BlogItem imageSrc="assets/blog04.png" />
+        <BlogItem imageSrc="assets/blog05.png" />
       </Grid>
     </Box>
   );
