@@ -87,7 +87,7 @@ const HeadrtText = () => {
         </Button>
       </Flex>
       <HStack alignItems="center" alignSelf="flex-start" spacing={18}>
-        <Image src="/src/assets/people.png" width="180px" h="36px"></Image>
+        <Image src="assets/people.png" width="180px" h="36px"></Image>
         <Text
           color="#81AFDD"
           fontSize={{
@@ -108,7 +108,7 @@ const HeaderImage = () => {
   return (
     <Box>
       <Image
-        src="/src/assets/ai.png"
+        src="assets/ai.png"
         alt="Dan Abramov"
         width={{
           xl: "500px",
@@ -132,19 +132,19 @@ const HeaderLogos = () => {
     <Center pt="8rem">
       <HStack spacing={8}>
         <Box>
-          <Image src="/src/assets/google.png" />
+          <Image src="assets/google.png" />
         </Box>
         <Box>
-          <Image src="/src/assets/slack.png" />
+          <Image src="assets/slack.png" />
         </Box>
         <Box>
-          <Image src="/src/assets/atlassian.png" />
+          <Image src="assets/atlassian.png" />
         </Box>
         <Box>
-          <Image src="/src/assets/dropbox.png" />
+          <Image src="assets/dropbox.png" />
         </Box>
         <Box>
-          <Image src="/src/assets/shopify.png" />
+          <Image src="assets/shopify.png" />
         </Box>
       </HStack>
     </Center>
