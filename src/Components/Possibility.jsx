@@ -14,7 +14,7 @@ import {
 } from "@chakra-ui/react";
 
 const PossibilityImage = () => {
-  return <Image w="500px" h="500px" src="/src/assets/possibility.png" />;
+  return <Image w="500px" h="500px" src="assets/possibility.png" />;
 };
 const PossibilityText = () => {
   return (
