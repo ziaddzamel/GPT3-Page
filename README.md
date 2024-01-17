@@ -1,4 +1,4 @@
-<img src="/Gpt3.png"alt="Project Banner">
+<img src="/Gpt3.png" alt="Project Banner">
 
 ## 📋 <a name="table">Table of Contents</a>
 
